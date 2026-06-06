@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Dancing With Ghosts
+
+This log tracks the cryptographic history and versioning for the song **Slow Dancing With Ghosts** (slow-dancing-with-ghosts).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T14:01:52.066922 | `v1` | `08bb744c40665372fd888483879164c86605cd86be30f004488820f78045fff3` | `cf47db2b609b15fd0a5119265ecd7c61afd786b9ad694ff36b4c590515457242` | `2026-06-06_slow-dancing-with-ghosts-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
