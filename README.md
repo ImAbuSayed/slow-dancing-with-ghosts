@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dancing-with-ghosts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Slow Dancing With Ghosts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dancing-with-ghosts/) |
+| **Get License** | [Music Rights & Licensing for Slow Dancing With Ghosts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dancing-with-ghosts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your shadow moving right across the floor
+> The scent of midnight creeping in beneath my door
+> You pull me closer than a memory usually goes
+> I’m falling deeper into slow dancing with ghosts
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
